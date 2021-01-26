@@ -1,6 +1,6 @@
 # ladybug-tools-recipes
 
-Publicly available recipes for common workflows, produced by LAdybug Tools.
+Publicly available recipes for common workflows, produced by Ladybug Tools.
 
 ## Load as Queenbee recipe
 
